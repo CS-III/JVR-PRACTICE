@@ -1,2 +1,2 @@
 # JVR-PRACTICE
-Repositorio de preactica para clase de software
+Repositorio de practica para clase de software
