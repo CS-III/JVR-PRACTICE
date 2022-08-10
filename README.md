@@ -1,2 +1,4 @@
 # JVR-PRACTICE
-Repositorio de practica para clase de software
+NOMBRE:JHONATAN VANEGAS RUEDA 
+EDAD:22
+GENREO: M
