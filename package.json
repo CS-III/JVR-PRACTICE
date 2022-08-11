@@ -1,0 +1,23 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "NOMBRE:JHONATAN VANEGAS RUEDA \r EDAD:22\r GENREO: M",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CS-III/JVR-PRACTICE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CS-III/JVR-PRACTICE/issues"
+  },
+  "homepage": "https://github.com/CS-III/JVR-PRACTICE#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
