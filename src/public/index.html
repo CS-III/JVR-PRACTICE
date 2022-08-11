@@ -17,19 +17,19 @@
      <div class="p-5">
         <div class="mb-3">
             <label  class="form-label">Nombre</label>
-            <input type="text" id="disabledTextInput" class="form-control" placeholder="Nombre">
+            <input type="text" name="nombre" id="disabledTextInput" class="form-control" placeholder="Nombre">
         </div>
         <div class="mb-3">
           <label  class="form-label">Correo</label>
-          <input type="text" id="disabledTextInput" class="form-control" placeholder="Correo">
+          <input type="text" name="correo" id="disabledTextInput" class="form-control" placeholder="Correo">
         </div>
         <div class="mb-3">
           <label  class="form-label">Telefono</label>
-          <input type="text" id="disabledTextInput" class="form-control" placeholder="Telefono">
+          <input type="text" name="telefono" id="disabledTextInput" class="form-control" placeholder="Telefono">
         </div>
           <div class="mb-3">
             <label for="disabledSelect" class="form-label">Tipo de documento</label>
-            <select id="disabledSelect" class="form-select" placeholder="Tipo de documento">
+            <select id="disabledSelect" name="TipoD" class="form-select" placeholder="Tipo de documento">
               <option></option>
               <option>Cedula</option>
               <option>Pasaporte</option>
@@ -39,7 +39,7 @@
           </div>
           <div class="mb-3">
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" >
+              <input id="chkAutoriza" class="form-check-input" type="checkbox" >
               <label class="form-check-label" >
                 Autoriza tratamiento de datos
               </label>
@@ -53,5 +53,8 @@
 </div>
 </div>
 </div>
+
+<script src="/assets/js/utilidades.js"></script>
 </body>
+
 </html>
